@@ -1,0 +1,4 @@
+C:\Users\aboudarbalagp\Desktop\Work_Project\AuxiliaireJustice\gs-core\gs-core\obj\Debug\net10.0\gs-core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aboudarbalagp\Desktop\Work_Project\AuxiliaireJustice\gs-core\gs-core\obj\Debug\net10.0\gs-core.AssemblyInfoInputs.cache
+C:\Users\aboudarbalagp\Desktop\Work_Project\AuxiliaireJustice\gs-core\gs-core\obj\Debug\net10.0\gs-core.AssemblyInfo.cs
+C:\Users\aboudarbalagp\Desktop\Work_Project\AuxiliaireJustice\gs-core\gs-core\obj\Debug\net10.0\gs-core.csproj.CoreCompileInputs.cache
