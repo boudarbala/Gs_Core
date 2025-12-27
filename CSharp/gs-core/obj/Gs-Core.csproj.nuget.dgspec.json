@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aboudarbalagp\\Desktop\\Work_Project\\AuxiliaireJustice\\gs-core\\gs-core\\Gs-Core.csproj": {}
+    "C:\\Users\\aboudarbalagp\\Desktop\\Work_Project\\AuxiliaireJustice\\Gs_Core\\CSharp\\gs-core\\Gs-Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aboudarbalagp\\Desktop\\Work_Project\\AuxiliaireJustice\\gs-core\\gs-core\\Gs-Core.csproj": {
+    "C:\\Users\\aboudarbalagp\\Desktop\\Work_Project\\AuxiliaireJustice\\Gs_Core\\CSharp\\gs-core\\Gs-Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aboudarbalagp\\Desktop\\Work_Project\\AuxiliaireJustice\\gs-core\\gs-core\\Gs-Core.csproj",
+        "projectUniqueName": "C:\\Users\\aboudarbalagp\\Desktop\\Work_Project\\AuxiliaireJustice\\Gs_Core\\CSharp\\gs-core\\Gs-Core.csproj",
         "projectName": "Gs-Core",
-        "projectPath": "C:\\Users\\aboudarbalagp\\Desktop\\Work_Project\\AuxiliaireJustice\\gs-core\\gs-core\\Gs-Core.csproj",
+        "projectPath": "C:\\Users\\aboudarbalagp\\Desktop\\Work_Project\\AuxiliaireJustice\\Gs_Core\\CSharp\\gs-core\\Gs-Core.csproj",
         "packagesPath": "C:\\Users\\aboudarbalagp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aboudarbalagp\\Desktop\\Work_Project\\AuxiliaireJustice\\gs-core\\gs-core\\obj\\",
+        "outputPath": "C:\\Users\\aboudarbalagp\\Desktop\\Work_Project\\AuxiliaireJustice\\Gs_Core\\CSharp\\gs-core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
